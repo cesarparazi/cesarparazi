@@ -1,5 +1,12 @@
-# Hi there 👋
-# Bem vindo ao meu Profile!!
+# Hi there 👋 Welcome to my Profile!!
+
+## Introduction: Briefly state who you are and what you do.
+
+## Interests: Share hobbies, passions, or creative pursuits.
+
+## Work/Achievements: Showcase relevant projects, skills, or accomplishments.
+
+## Goals: Mention what you're looking for (e.g., connections, collaborations). 
 
 <!--
 **cesarparazi/cesarparazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
