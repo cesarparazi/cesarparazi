@@ -1,14 +1,11 @@
 # Hi there 👋  
 # Welcome to my Profile❕❕
-
 ![Simpsom trabalhando](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxqMm9ydGdlYTN2aW1sYTBpaGtrcWEzbWZ2bTJnemFsaHRndHliaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Je6eSg8ONhujzJC/giphy.gif)
-
 ## Introduction: Briefly state who you are and what you do.
-
+### My name is Cesar. I'm a systems development student and I work in the telecommunications sector.
+📧 ceparazi@gmail.com
 ## Interests: Share hobbies, passions, or creative pursuits.
-
 ## Work/Achievements: Showcase relevant projects, skills, or accomplishments.
-
 ## Goals: Mention what you're looking for (e.g., connections, collaborations). 
 
 <!--
