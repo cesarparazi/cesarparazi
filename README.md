@@ -1,5 +1,6 @@
 # Hi there 👋 Welcome to my Profile!!
-![Simpsom trabalhando](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRrdzA1MWp5azE2ZDYwOWx5aHB0MjF6MWZ0a2FvY2tmanJtczI3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UYmY3vRnWpHHO/giphy.gif)
+![Simpsom trabalhando](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxqMm9ydGdlYTN2aW1sYTBpaGtrcWEzbWZ2bTJnemFsaHRndHliaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Je6eSg8ONhujzJC/giphy.gif)
+)
 
 ## Introduction: Briefly state who you are and what you do.
 
