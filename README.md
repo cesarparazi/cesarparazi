@@ -1,5 +1,5 @@
 # Hi there 👋  
-# Welcome to my Profile❕❕ 😄
+# Welcome to my Profile❕❕
 
 ![Simpsom trabalhando](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxqMm9ydGdlYTN2aW1sYTBpaGtrcWEzbWZ2bTJnemFsaHRndHliaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Je6eSg8ONhujzJC/giphy.gif)
 
