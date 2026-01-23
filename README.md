@@ -8,6 +8,14 @@
 ## Interests: Share hobbies, passions, or creative pursuits.
 
 ## Work/Achievements: Showcase relevant projects, skills, or accomplishments.
+
+### Certificados
+-------
+| |Cursos|Certificados|Instituição|
+|--|------|-----------|-----------|
+|✔️|Príncipios do Git e Github|[link](https://hermes.dio.me/certificates/887WJDG5.pdf)|DIO. Certification Program|
+|✔️|Fundamentos da Linguagem de Programação Java|[link](https://hermes.dio.me/certificates/S7I9CHNO.pdf)|DIO. Certification Program|
+
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg" alt= "descrição" width="100" />
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt= "descrição" width=100 />
 
