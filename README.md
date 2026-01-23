@@ -9,6 +9,8 @@
 
 ## Work/Achievements: Showcase relevant projects, skills, or accomplishments.
 
+![CesarParazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarparazi&show_icons=true&theme=tokyonight)
+
 ### Certificados
 -------
 | |Cursos|Certificados|Instituição|
